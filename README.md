@@ -1,7 +1,7 @@
 <h1>Código Aberto - Temporada 01</h1>
 
 <h2>Sobre o Projeto</h2>
-Este repositório apresenta um projeto desenvolvido como parte do curso [Código Aberto](https://www.youtube.com/robsonvleite). O objetivo principal do projeto é a criação de um sistema de login em PHP, implementado com as melhores práticas de programação, e com recursos de autenticação através das plataformas Facebook e Google.
+Este repositório apresenta um projeto desenvolvido como parte do curso Código Aberto Temporada 1. O objetivo principal do projeto é a criação de um sistema de login em PHP, implementado com as melhores práticas de programação, e com recursos de autenticação através das plataformas Facebook e Google.
 
 <h2>Instalação</h2>
 Para instalar o projeto em sua máquina siga o passo a passo.
