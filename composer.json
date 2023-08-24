@@ -1,0 +1,31 @@
+{
+  "name": "joaobenigno/authphp",
+  "description": "Example implementation of a simple login system using MVC with PHP based on the Código Aberto course.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "João Benigno",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source"
+    },
+    "files": [
+      "source/Config.php",
+      "source/Helpers.php"
+    ]
+  },
+  "require": {
+    "ext-json": "*",
+    "coffeecode/router": "1.0.7",
+    "coffeecode/datalayer": "1.1.4",
+    "coffeecode/optimizer": "2.0.0",
+    "phpmailer/phpmailer": "6.1.4",
+    "league/plates": "4.0.0-alpha",
+    "league/oauth2-facebook": "2.1.0",
+    "league/oauth2-google": "3.0.2"
+  }
+}
